@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Notes for Self
+[Turning a Jupyter Notebook into a Web App with Anvil](https://anvil.works/learn/tutorials/jupyter-notebook-to-web-app#:~:text=We%20enable%20the%20Anvil%20Uplink,Uplink%20in%20the%20Anvil%20IDE.&text=Now%20our%20Jupyter%20Notebook%20can,other%20parts%20of%20the%20app)
+
+[How to Turn Your Jupyter Notebook into a User-Friendly Web App with Flask](https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/)
